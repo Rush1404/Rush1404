@@ -19,3 +19,9 @@ We learned to use the streamlit framework properly, which we ran into many troub
 We plan on making Stockfest a proper website with a better front-end design that is user friendly and bug-free. We also plan to make the graphs easier to read and have more calculations that are given out to the user.
 
 ## Made by Rushabh Shah and Fayez Mohammed
+
+## Video Link
+https://youtu.be/YhEbFuNYiJ4
+
+## Instructions
+If you need help running this file, make sure to run with streamlit and prophet downloaded through the terminal (pip install streamlit/prophet) and also run the program in the terminal.
