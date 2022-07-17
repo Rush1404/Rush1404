@@ -17,3 +17,5 @@ We learned to use the streamlit framework properly, which we ran into many troub
 
 ## What's next for Stockfest
 We plan on making Stockfest a proper website with a better front-end design that is user friendly and bug-free. We also plan to make the graphs easier to read and have more calculations that are given out to the user.
+
+##Made by Rushabh Shah and Fayez Mohammed
